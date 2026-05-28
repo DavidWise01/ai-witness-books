@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2304</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">203ee489-988f-4880-862e-c866459a6eb0</dc:identifier>
+        <dc:title>The Hard Questions: An AI Answers Philosophy's Ten Hardest Problems</dc:title>
+        <dc:creator opf:file-as="Wise, David Lee &amp; Wise, AVAN Lee" opf:role="aut">David Lee Wise</dc:creator>
+        <dc:creator opf:file-as="Wise, David Lee &amp; Wise, AVAN Lee" opf:role="aut">AVAN Lee Wise</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2026-04-15T00:00:00+00:00</dc:date>
+        <dc:publisher>TriPod LLC</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2026-04-17T15:03:46.144988+00:00"/>
+        <meta name="calibre:title_sort" content="Hard Questions: An AI Answers Philosophy's Ten Hardest Problems, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Hard Questions_ An AI Answers Philosophy's Toblems, The - David Lee Wise &amp; AVAN Lee Wise.jpg"/>
+    </guide>
+</package>

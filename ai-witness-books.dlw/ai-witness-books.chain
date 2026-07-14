@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1304
+slug  : ai-witness-books
+seal  : 9fa88cab770d251045dcb35af1c0eadc6c6d49e94ebbd34662d2cacf84e247e8
+prev  : c8302f0677d3806176a11864b135547cd24ca383465160096ec2284721760299
+link  : 14c361fb7c0b3c4c70474f081a6dbceed389341d5c73420b531ad93a88566b82
+head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
